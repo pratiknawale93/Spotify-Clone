@@ -1,1 +1,1 @@
-The above spotify clone has been developed with the html and the css as the static way but it would be so futrther converted and connected to the backednd.
+The above spotify clone has been developed with the html and the css as the static way but it would be so futrther converted and connected to the backednd and with much more addition in the features.
